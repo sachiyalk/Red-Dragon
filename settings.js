@@ -19,31 +19,34 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is RED DRAGON🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `👋🏻𝙷𝚒! 𝙸 𝚊𝚖 𝙾𝚗𝚕𝚒𝚗𝚎 𝙽𝚘𝚠👋🏻
 
-global.owner = ['+380944814219'] //Owner number in aive msg
-global.premium = ['+380944814219'] //Owner Number info
-global.ownernomer = '+380944814219' //Owner Number <<<
+🎃 𝙸  𝚊𝚖 𝚂𝚊𝚌𝚑𝚒𝚢𝚊 𝚊𝚗 𝚞𝚜𝚎𝚛 𝚋𝚘𝚝 𝙵𝚘𝚛 𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙 🎃
 
-global.ownername = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //Owner Name
-global.botname = ' ☬RED༒DRAGON' //Bot Name
+🥰 𝙷𝚊𝚟𝚎 𝚊 𝚗𝚒𝚌𝚎 𝚍𝚊𝚢! 🥰` //Costomize Alive Message (type your message in `` )
+
+global.owner = ['+94764526054'] //Owner number in aive msg
+global.premium = ['+94764526054'] //Owner Number info
+global.ownernomer = '+94764526054' //Owner Number <<<
+
+global.ownername = '😎𝐌𝐑.𝐒𝐀𝐂𝐇𝐈𝐘𝐀😎' //Owner Name
+global.botname = ' ✿ᴍʀ.ꜱᴀᴄʜɪʏᴀ ʙᴏᴛ✿' //Bot Name
 
 global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://youtu.be/E5C-lrl_g9I' //Change Your Button's URL
+global.btnurl = 'https://www.youtube.com/channel/UC2FkdjIyfmzaxBv39lC0ryg' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯' //Author Name
+global.packname = 'ᴍʀ.ꜱᴀᴄʜɪʏᴀ ⁶⁶⁶' //Bot Pacage Name
+global.author = 'ᴍʀ.ꜱᴀᴄʜɪʏᴀ ⁶⁶⁶' //Author Name
 global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
-global.sessionName = 'session' //Session Name!
+global.sessionName = 'ᴍʀ.ꜱᴀᴄʜɪʏᴀ' //Session Name!
 global.sp = '⭔' //A Charactor In Menu!
-global.footer = '©_Kumuthu.' //In list menu
+global.footer = '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴍʀ.ꜱᴀᴄʜɪʏᴀ.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
 
-global.ig = 'https://github.com/prabhasha2006' //Github Account!
+global.ig = 'https://github.com/sachiyalk' //Github Account!
 
 global.mess = { // cOSTOMIZE WITH YOUR LANGUAGE
 	
@@ -54,7 +57,7 @@ global.mess = { // cOSTOMIZE WITH YOUR LANGUAGE
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
     bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
+    wait: '◦•●◉✿ P̲l̲e̲a̲s̲e̲ ̲W̲a̲i̲t̲ ✿◉●•◦',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
